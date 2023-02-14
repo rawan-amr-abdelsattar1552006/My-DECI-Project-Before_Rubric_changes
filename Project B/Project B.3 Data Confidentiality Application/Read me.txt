@@ -1,0 +1,6 @@
+In this part of the project I generated a key by running the "Key generation.py" app I wrote in the directory "Key" once and used the "key.txt" in encryption and decryption processes so it's a symmetic encryption example, where I assume that the "key.txt" file is shared securely in some way or may be shared using assymetric encryption. 
+
+I also decided that the app should encrypt only txt files to let you know that I could implement any type of rules on the tool, but it's easy to implement it on other files by just changing the conditions of the if statements written.
+
+I hope it passes the tests and also I hope you like it !
+Thanks for your efforts !

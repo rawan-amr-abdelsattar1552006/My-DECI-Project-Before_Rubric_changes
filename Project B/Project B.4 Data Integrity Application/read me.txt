@@ -1,0 +1,17 @@
+The following are some "Important Notes about sample input and output files" and order of steps taken:
+
+1. I used the "Sample input(file).txt" as input to the tool to generate the "Sample Output (hash).txt"
+
+2. I copied the data in "Sample Output (hash).txt" and put it in the "Sample input(Hash).txt" , then used it as input to check the integrity of the input file which gives us "Integrity Confirmed" message
+
+3. I changed the content of "Sample input(file).txt" and used it again with the "Sample input(Hash).txt" to check integrity again which give the "Integrit Violated" message
+
+** I took screenshots while doing all these steps and put them in the "Screenshots" folder along with a "Screen record" of the app running in the "Command Prompt" to make it a bit more easier to deal with and makes my project assesment easier for you.  **
+
+Some Features of the app:
+
+1. It asks the user which service of these that the tool provides they want to use right after the programs starts and tells them to type "c" for file integrity check and "h" to generate a hash of the file
+
+2. It validates the input paths and tells the user to input a valid path if (none/ invalid one) was provided.
+
+3. It runs as many times and the user can easily quit by typing "q" in the terminal(or CMD).

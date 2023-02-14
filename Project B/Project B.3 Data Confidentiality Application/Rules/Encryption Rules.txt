@@ -1,0 +1,6 @@
+1. The user must have the public key (shared key)
+2. The length of the input plain text can not be less than 16 charcaters
+3. The encryption service works only for some file extensions (I will choose them as txt files only for now , but in real-time production I think the organization itself must decide it according to the purpose of using the tool)
+
+
+

@@ -1,0 +1,3 @@
+1. The user must have the public key (shared key)
+2. The length of the input cipher text can not be less than 16 charcaters
+3. The decryption service works only for files encrypted using the same cipher and same public key (I will create an extension during the encryption process to be able to decide)
